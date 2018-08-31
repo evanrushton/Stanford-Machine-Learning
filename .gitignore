@@ -1,0 +1,7 @@
+*.log
+*.txt
+*.pdf
+*.jpeg
+*.png
+octave-workspace
+
